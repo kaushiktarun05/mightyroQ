@@ -69,7 +69,7 @@ Usage
 Default Credentials
 
 -   Username: tarunkaushik
--   Password: trunk123
+-   Password: tarunk123
 
 To modify these credentials, edit the `./utils/config.js` file.
 
