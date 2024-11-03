@@ -4,6 +4,7 @@ MightyroQ
 **MightyroQ** is a high-level Windows payload providing a fully GUI-based control panel for executing and managing various security operations. Designed for network security researchers and professionals, mightyroQ offers an intuitive interface to control and deploy payloads effectively within Windows environments.
 
 * * * * *
+![Local Image](ss/login.png)
 
 Features
 --------
@@ -34,6 +35,7 @@ Supported OS
 -   Windows 10 (version 1803 or later, build 17063 or newer)
 
 * * * * *
+![Local Image](ss/info.png)
 
 Installation
 ------------
@@ -72,6 +74,8 @@ Default Credentials
 To modify these credentials, edit the `./utils/config.js` file.
 
 User Interface
+
+![Local Image](ss/payload.png)
 
 -   UI: ui
 -   Payload Build: build
